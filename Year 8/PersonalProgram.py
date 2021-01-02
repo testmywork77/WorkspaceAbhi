@@ -5,10 +5,6 @@ name = input("What is your name?").upper()
 age = int(input("How old are you?"))
 bowler = input("Who do you hate the most?").upper()
 friend = input("Who is your best friend?").upper()
-
-
-
-
 print("It was time, time to shine for the ledendary cricket player, " + name + ".")
 print(+ gender + " is only " + str(age) + " but " + gender + " has already won the national cup.")
 print(+ name + " was ready to strike " + gender2 + " however the opposing team changed bowlers.")
